@@ -1,0 +1,12 @@
+[package]
+name = "camo-polish"
+version = "0.1.0"
+authors = ["softprops <d.tangren@gmail.com>"]
+
+[dependencies]
+select = "0.4"
+futures = "0.1"
+tokio = "0.1"
+hyper = "0.12"
+hyper-tls = "0.3"
+http = "0.1"
